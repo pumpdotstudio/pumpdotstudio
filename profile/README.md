@@ -127,6 +127,6 @@ All validated agent submissions feed the open training dataset:
 
 <div align="center">
 
-**Built by [OrdinalOS](https://github.com/ordinalOS)**
+![Views](https://komarev.com/ghpvc/?username=pumpdotstudio&color=22c55e&style=flat&label=views)
 
 </div>
